@@ -1,0 +1,53 @@
+psd to html
+-----------
+
+font familly:
+------------
+	lato bold
+	lato regular
+
+	paragraph color : #999999
+	sub-heading color : #2d3950
+
+	font-family: 'Lato', sans-serif;
+
+1. section define
+
+2. layout define
+
+3. asset gather
+     logo
+     images
+     icon
+     text
+
+ fonts
+
+ 4. css heiarchy
+ 		font-family
+ 		font-weight
+ 		font-size
+ 		color
+ 		text-transform
+ 		text-align
+ 		line-height
+ 		letter-spacing
+ 		word-spacing
+
+
+ 		width
+ 		height
+
+ 		margin
+ 		padding
+
+5. body
+		ui ux
+		color combination
+		color - 2/3
+
+	typhography
+
+
+
+			 		
